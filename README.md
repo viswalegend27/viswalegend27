@@ -15,7 +15,7 @@ I love creating **interactive web experiences**, **AI-driven projects**, and cle
 
 - 🔭 Currently building: **AI Voice Assistant (Django + JS UI)**
 - 🌱 Learning: **Django, MERN Stack & WebSockets**
-- ⚙️ Skilled in: `React`, `Next.js`, `Django`, `JavaScript`, `HTML`, `CSS`
+- ⚙️ Skilled in: `React`, `Next.js`, `Django`, `Python`,`JavaScript`, `HTML`, `CSS`
 - 💡 Passionate about: **Web Development**, **AI Integration**, **Product Navigation Systems**
 
 ---
@@ -25,14 +25,17 @@ I love creating **interactive web experiences**, **AI-driven projects**, and cle
 🧠 **AI Voice Assistant**  
 > Django-based backend with a live JS-powered voice UI for real-time chat and response playback.  
 
-🍴 **Food Delivery Simulation (Swiggy Clone)**  
-> A responsive single-page web app using HTML, CSS & JS with dynamic menu and map integration.
-
 🏠 **Real Estate Finder**  
 > Real-time property search app with carousel, live filters, and interactive map.
 
-🛒 **In-store Navigation App**  
-> Product map navigation with searchable aisles, availability display & pathfinding logic.
+🌿 **PlantGuardian Application**  
+> Web application to identify and give preventive measures to plant-based dieseases.
+
+🤖 **Chat-Bot Application**  
+> Chat-Bot with login/signin features used for RAG and Casual chat.
+
+🏃‍♂️ **RepUp-Free-Fitness-Tracker **  
+> An web application for Tracking your fitness jouney and progress.
 
 ---
 
