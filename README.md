@@ -34,7 +34,7 @@ I love creating **interactive web experiences**, **AI-driven projects**, and cle
 🤖 **Chat-Bot Application**  
 > Chat-Bot with login/signin features used for RAG and Casual chat.
 
-🏃‍♂️ **RepUp-Free-Fitness-Tracker **  
+🏃‍♂️ **RepUp-Free-Fitness-Tracker**  
 > An web application for Tracking your fitness jouney and progress.
 
 ---
